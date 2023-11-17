@@ -39,10 +39,10 @@ git clone https://github.com/arikat/Glydentify.git
 cd Glydentify
 ```
 
-Install the required packages:
+Install the required packages from the environment file (requires conda/mamba):
 
 ```bash
-pip install -r requirements.txt
+conda env create -f glydentify.yml
 ```
 
 ## Contributing
