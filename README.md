@@ -54,13 +54,11 @@ Contributions to Glydentify are welcome! Whether it's feature enhancements, bug 
 If you use Glydentify in your research, please cite our accompanying paper:
 
 ```bibtex
-@article{your-citation-details,
-  title={Your Paper Title},
-  author={Your Names},
-  journal={Journal Name},
-  year={Year},
-  publisher={Publisher}
-}
+@article{
+  title={Glydentify, a deep learning tool for classifying glycosyltransferase function},
+  author={Venkat, A., Zhou, Z., Gill, S. and Kannan, N.},
+  journal={manscript in preparation},
+  year={2024},}
 ```
 
 ## License
