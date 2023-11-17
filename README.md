@@ -58,7 +58,7 @@ If you use Glydentify in your research, please cite our accompanying paper:
   title={Glydentify, a deep learning tool for classifying glycosyltransferase function},
   author={Venkat, A., Zhou, Z., Gill, S. and Kannan, N.},
   journal={manscript in preparation},
-  year={2024},}
+  year={2024}}
 ```
 
 ## License
