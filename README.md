@@ -2,7 +2,7 @@
 
 ## Overview
 
-Glydentify is an open-source tool leveraging the power of protein language models for the classification of glycosyltransferases (GTs). This application, grounded in the cutting-edge ESM2 protein language model, offers a novel approach to classifying GTs into fold A families. Glydentify not only achieves high accuracy in prediction but also provides insights into donor binding preferences and key contributing residues, adding an explainable component to its functionality.
+Glydentify is an open-source tool leveraging the power of protein language models for the classification of glycosyltransferases (GTs). This application, grounded in the cutting-edge ESM2 protein language model, offers a novel approach to classifying GTs into fold A families. Glydentify not only achieves high accuracy in prediction but also provides insights into donor binding preferences and key contributing residues, adding an explainable component to its functionality. Glydentify is available on [Hugging Face Spaces](https://huggingface.co/spaces/arikat/Glydentify).
 
 ## Features
 
